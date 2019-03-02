@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the first star in my universe
 
 You can use the [editor on GitHub](https://github.com/xiaoan651/myfirststar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
